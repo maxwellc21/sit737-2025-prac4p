@@ -1,0 +1,14 @@
+{"level":"error","message":"404 - Not Found - /add?num1=5&num2=3","service":"calculator-microservice","timestamp":"2025-03-28T06:16:03.740Z"}
+{"level":"error","message":"404 - Not Found - /favicon.ico","service":"calculator-microservice","timestamp":"2025-03-28T06:16:03.798Z"}
+{"level":"error","message":"404 - Not Found - /add?num1=5&num2=3","service":"calculator-microservice","timestamp":"2025-03-28T06:16:35.054Z"}
+{"level":"error","message":"404 - Not Found - /favicon.ico","service":"calculator-microservice","timestamp":"2025-03-28T06:41:53.298Z"}
+{"level":"error","message":"404 - Not Found - /index.ht?vscodeBrowserReqId=1743144396138","service":"calculator-microservice","timestamp":"2025-03-28T06:46:36.180Z"}
+{"level":"error","message":"404 - Not Found - /api?vscodeBrowserReqId=1743144429168","service":"calculator-microservice","timestamp":"2025-03-28T06:47:09.177Z"}
+{"level":"error","message":"404 - Not Found - /api/?vscodeBrowserReqId=1743144442867","service":"calculator-microservice","timestamp":"2025-03-28T06:47:22.876Z"}
+{"level":"error","message":"404 - Not Found - /api/multiplication?num1=-5&num2=-3","service":"calculator-microservice","timestamp":"2025-03-28T13:42:12.960Z"}
+{"level":"error","message":"404 - Not Found - /api/division?num1=5&num2=3","service":"calculator-microservice","timestamp":"2025-03-28T13:43:18.249Z"}
+{"level":"error","message":"404 - Not Found - /api/Dvision?num1=5&num2=3","service":"calculator-microservice","timestamp":"2025-03-28T13:43:30.049Z"}
+{"level":"error","message":"404 - Not Found - /api/Division?num1=5&num2=3","service":"calculator-microservice","timestamp":"2025-03-28T13:43:43.363Z"}
+{"level":"error","message":"404 - Not Found - /api/division?num1=5&num2=3","service":"calculator-microservice","timestamp":"2025-03-28T13:43:58.083Z"}
+{"level":"error","message":"Error in divide: Division by zero is not allowed","service":"calculator-microservice","timestamp":"2025-03-28T13:47:12.214Z"}
+{"level":"error","message":"Error in divide: Invalid input parameters. Please provide valid numbers.","service":"calculator-microservice","timestamp":"2025-03-28T13:48:18.255Z"}
