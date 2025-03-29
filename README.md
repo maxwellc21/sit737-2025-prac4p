@@ -42,13 +42,14 @@ cd sit737-2025-prac4p
 #### 2️⃣ Navigate to the project directory
 
 ```sh
-cd your-repo
+cd sit737-2025-prac4p
 ```
 
 #### 3️⃣ Install dependencies
 
 ```sh
-npm install
+npm install express winston cors
+npm install --save-dev jest supertest morgan nodemon
 ```
 
 ---
@@ -64,5 +65,5 @@ npm start
 For development mode with live reload:
 
 ```sh
-npm run dev
+npm dev
 ```
